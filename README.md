@@ -6,6 +6,8 @@ Example Python project
 This is an example of a Python Project. Use this
 as a starting point for creating new python projects.
 
+
+
 There are multiple different kinds of Python projects possible.
 This project is not an app.
 This project is not a library.
