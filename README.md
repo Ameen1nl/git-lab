@@ -5,7 +5,7 @@ For the git-lab we will use this repository to learn `git`.
 
 To get started it is best to mirror-clone this repository into a fresh github repository. 
 
-- Login to your personal github account
+- Login to your personaadfadsfl github account
   - Create an account if you don't have one already
 - Create a personal git-lab repository
 - Mirror this repository. _this clones the repository including all it's history and branches._
